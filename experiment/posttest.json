@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "2. For impact test, T5 in the schematic below correspond to (T indicates temperature):<br><imagep1.png>",
+      "question": "2. For impact test, T5 in the schematic below correspond to (T indicates temperature):<br><image src=images/imagep1.png>",
       "answers": {
         "a": "T5 – FTP",
         "b": "T5 – DTT",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "3. Fracture surfaces of the same alloy are shown below from impact tests conducted at three different temperatures (T1, T2 and T3). Which one of them is true?<br><imagep2.png> ",
+      "question": "3. Fracture surfaces of the same alloy are shown below from impact tests conducted at three different temperatures (T1, T2 and T3). Which one of them is true?<br><image src=images/imagep2.png> ",
       "answers": {
         "a": "T1>T3>T2",
         "b": "T3>T2>T1",
@@ -53,7 +53,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "4. In a hypothetical curve given below for impact testing, B might correspond to:<br>imagep3.png",
+      "question": "4. In a hypothetical curve given below for impact testing, B might correspond to:<br><image src=images/imagep3.png>",
       "answers": {
         "a": "Copper",
         "b": "Nickel",
