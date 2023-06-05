@@ -8,7 +8,7 @@
 
 ### About the Experiment 
 
-<b> A typical Charpy Impact Tester is shown in Fig. 1. The impact tester contains a heavy swing pendulum and has the maximum impacting energy capability of 300 J. A scale is provided in the machine to quantify the impact energy values. An indenter will move on this scale when the pendulum is allowed to impact the V-notched specimen from its horizontal static position. There is a stand at the bottom of the machine where the V-notched specimen is supported as a beam in the horizontal position.
+<b> The impact tester contains a heavy swing pendulum and has the maximum impacting energy capability of 300 J. A scale is provided in the machine to quantify the impact energy values. An indenter will move on this scale when the pendulum is allowed to impact the V-notched specimen from its horizontal static position. There is a stand at the bottom of the machine where the V-notched specimen is supported as a beam in the horizontal position.
 
 <b>Name of Developer | <b> Prof. Sudhansu S. Singh , Prof. Shashank Shekhar
 :--|:--|
