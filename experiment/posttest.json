@@ -2,12 +2,46 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. Fracture-appearance transition temperature, FATT corresponds to?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "40 % cleavage fracture",
+        "b": "50 % cleavage fracture",
+        "c": "0 % cleavage fracture",
+        "d": "100 % cleavage fracture"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. For impact test, T5 in the schematic below correspond to (T indicates temperature):<br> imagep1.png",
+      "answers": {
+        "a": "T5 – FTP",
+        "b": "T5 – DTT",
+        "c": "T5 – FATT",
+        "d": "T5 – NDT"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Fracture surfaces of the same alloy are shown below from impact tests conducted at three different temperatures (T1, T2 and T3). Which one of them is true?<br>imagep2.png ",
+      "answers": {
+        "a": "T1>T3>T2",
+        "b": "T3>T2>T1",
+        "c": "T3>T1>T2",
+        "d": "T2>T3>T1"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +53,12 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "4. In a hypothetical curve given below for impact testing, B might correspond to:<br>imagep3.png",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Copper",
+        "b": "Nickel",
+        "c": "Mild steel",
+        "d": "Aluminum "
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -33,6 +67,40 @@
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. Which of the following is correct? ",
+      "answers": {
+        "a": "In Izod test, the pendulum hits on the opposite surface to that containing notch",
+        "b": "The impact energy is related to difference between initial and final height",
+        "c": "In Charpy test, the pendulum hits on the same surface that contains notch",
+        "d": "In India, we predominantly use Izod impact test"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6. The strain rates in impact test are:",
+      "answers": {
+        "a": "Slightly higher than tensile tests",
+        "b": "lower than tensile tests",
+        "c": "Almost similar to tensile tests",
+        "d": "Much higher than tensile tests"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
