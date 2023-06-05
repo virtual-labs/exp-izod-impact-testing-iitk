@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "For impact test, T1 in the schematic below correspond to (T indicates temperature):<br><Pr1.png>",
+      "question": "2. For impact test, T1 in the schematic below correspond to (T indicates temperature):<br><image src=images/Pr1.png>",
       "answers": {
         "a": "aT1 – FTP",
         "b": "T1 – DTT",
@@ -53,7 +53,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "4. : In a hypothetical curve given below for impact testing, A might correspond to:<br><Pr2.png>",
+      "question": "4. : In a hypothetical curve given below for impact testing, A might correspond to:<br><image src=images/Pr2.png>",
       "answers": {
         "a": "Mild steel",
         "b": "Low carbon steelanswer2",
