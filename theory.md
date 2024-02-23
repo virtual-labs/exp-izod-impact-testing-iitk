@@ -1,0 +1,22 @@
+<b> Theory of experiment</b><br><br>
+<b> Brief Description of the Equipment/Machine </b><br>
+A typical Charpy Impact Tester is shown in Fig. 1. The impact tester contains a heavy swing pendulum and has the maximum impacting energy capability of 300 J. A scale is provided in the machine to quantify the impact energy values. An indenter will move on this scale when the pendulum is allowed to impact the V-notched specimen from its horizontal static position. There is a stand at the bottom of the machine where the V-notched specimen is supported as a beam in the horizontal position.<br><br>
+<image src="images/image1.PNG"> <br><br>
+<b>Working Principle</b> <br>
+Impact test is undoubtedly the most commonly used test that is performed to understand the ductile-to-brittle transition behavior in materials. Generally, the specimen used in the impact test has a square cross-section (10 mm * 10 mm) and contains a 45o V-notch of 2 mm deep with a root radius of 0.25 mm (Fig. 2a). The Charpy impact test is done by placing a V-notched specimen on the anvil such that indenter/hammer hits the specimen on the opposite face containing the notch (Fig. 2b). In contrast, in the case of Izod impact test, the indenter hits at the same face that contains notch (Fig. 2c). The principal of calculation of absorbed energy is shown in Fig. 2d. A heavy pendulum/indenter/hammer released from a known height (H) strikes the sample on its downward swing and fractures it. After the test bar is broken, the pendulum rebounds to a height (h), which is lower than the initial height (H) due to energy absorbed in the fracture process. By knowing the mass of the pendulum and the difference between its initial and final heights, the energy absorbed by the fracture process can be measured. In the impact tester machine, the position of indenter on the scale after impact gives the absorbed energy in Joule. Charpy is widely used (such as India, USA, Europe, Russia, etc.) as compared to Izod impact test (UK) to measure the impact toughness.<br>
+<image src="images/image2.PNG"> <br><br>
+<b>Effect of Temperature</b><br> 
+For some materials, ductility is decreased as the temperature is lowered. The V-notch impact test can be used to determine whether or not a material experiences a ductile-to-brittle transition as the temperature is lowered. It should be noted that the absorbed energy is related to the ductility, i.e., higher the impact absorbed energy, material would be more ductile. Individual impact test can be performed at different temperatures to obtain impact absorbed energy values and then plot the curve to obtain ductile-to-brittle transition temperature. Fig. 3 shows the impact energy curves with temperature for copper and mild steel. It can be seen that copper remains ductile at all temperature, however, mild steel shows ductile-to-brittle transition.<br><br>
+<image src="images/image3.PNG"> <br><br>
+<b>Determination of ductile-to-brittle transition temperature (DBTT)</b><br> 
+For many alloys, similar to the curve shown for mild steel, there is a range of temperatures over which the ductile-to-brittle transition occurs. This leads to difficulty in the determination of exact ductile-to-brittle transition temperature. Therefore, following criteria, based on energy and fracture surface appearances, have been developed to calculate DBTT, as shown in Fig. 4.<br>
+<image src="images/image4.PNG"> <br><br>
+<b>T1 (Fracture transition plastic, FTP)</b><br> 
+Corresponding to the temperature above which the fracture surface is 100% fibrous (0% cleavage). Below FTP, the fracture changes from totally ductile to substantially brittle.<br><br>
+<b>T2 (Fracture-appearance transition temperature, FATT):</b> The fracture surface is 50% cleavage and 50% shear.<br><br>
+<b>T3:</b> This temperature is the average of the upper and lower half shelf values.<br><br>
+<b>T4 (Ductility transition temperature):</b> This is the most used criterion where CVN energy assumes a value of 20 J.<br><br>
+<b>T5 (Nil ductility temperature, NDT):</b> The temperature at which fracture becomes 100% cleavage.<br><br>   
+<b> Fracture surface during impact test</b><br>
+Depending upon the position in the absorbed impact energy vs temperature curve, the fracture surface of the specimen changes from cleavage (brittle) to fibrous (ductile). The fracture surfaces at different positions in the curve are shown in Fig. 5.<br>
+<image src="images/image5.PNG"> <br>
