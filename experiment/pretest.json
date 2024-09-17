@@ -2,12 +2,29 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. In the Charpy impact test the specimen is kept as:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Fixed end beam ",
+        "b": "Simply supported beam",
+        "c": "Cantilever beam",
+        "d": "Overhanging beam"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. For impact test, T1 in the schematic below correspond to (T indicates temperature):<br><image src=images/Pr1.png>",
+      "answers": {
+        "a": "T1 – FTP",
+        "b": "T1 – DTT",
+        "c": "T1 – FATT",
+        "d": "T1 – NDT"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +36,46 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "3. In impact testing, Ductility Transition Temperature is the temperature at which the energy is:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "20 J",
+        "b": "30 J",
+        "c": "10 J",
+        "d": "40 J"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. : In a hypothetical curve given below for impact testing, A might correspond to:<br><image src=images/Pr2.png>",
+      "answers": {
+        "a": "Mild steel",
+        "b": "Low carbon steel",
+        "c": "Chromium ",
+        "d": "Nickel"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. Which of the following is correct? ",
+      "answers": {
+        "a": "In Izod test, the specimen is kept horizontally",
+        "b": "The angle of the V-notch specimen is 60<sup>o</sup>",
+        "c": "In Charpy test, the specimen is kept horizontally",
+        "d": "The initial height of the pendulum is the impact energy"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
